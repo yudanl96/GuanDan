@@ -1,0 +1,101 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "guandan.Main",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "SetLevel",
+            "request": "launch",
+            "mainClass": "guandan.SetLevel",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "Kind",
+            "request": "launch",
+            "mainClass": "guandan.Kind",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "Player",
+            "request": "launch",
+            "mainClass": "guandan.Player",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "DealCard",
+            "request": "launch",
+            "mainClass": "guandan.DealCard",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "PlayerPage",
+            "request": "launch",
+            "mainClass": "guandan.PlayerPage",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "CardPanel",
+            "request": "launch",
+            "mainClass": "guandan.CardPanel",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "EnterPageEvents",
+            "request": "launch",
+            "mainClass": "guandan.EnterPageEvents",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "CardDeck",
+            "request": "launch",
+            "mainClass": "guandan.CardDeck",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "Card",
+            "request": "launch",
+            "mainClass": "guandan.Card",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "type": "java",
+            "name": "EnterPage",
+            "request": "launch",
+            "mainClass": "guandan.EnterPage",
+            "projectName": "GuanDan_df835f82"
+        },
+        {
+            "name": "C++17 cpp build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "g++ build c++17"
+        }
+    ]
+}
